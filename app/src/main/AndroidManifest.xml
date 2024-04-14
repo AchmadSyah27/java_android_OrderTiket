@@ -13,6 +13,9 @@
         android:theme="@style/Theme.TiketSayaApp"
         tools:targetApi="31">
         <activity
+            android:name=".SignInAct"
+            android:exported="false" />
+        <activity
             android:name=".GetStartedAct"
             android:exported="false" />
         <activity
