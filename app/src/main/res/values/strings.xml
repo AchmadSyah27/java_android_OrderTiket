@@ -8,4 +8,5 @@
     <string name="Continue_label">CONTINUE</string>
     <string name="name_label">Name</string>
     <string name="bio_label">Your Passion</string>
+    <string name="explore">Explore Now</string>
 </resources>
