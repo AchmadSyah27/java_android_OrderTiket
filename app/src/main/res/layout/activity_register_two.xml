@@ -153,19 +153,25 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
+        android:id="@+id/uploadFoto"
         android:layout_width="35dp"
         android:layout_height="35dp"
-        android:layout_marginEnd="152dp"
         android:layout_marginTop="95dp"
-        android:background="@drawable/bg_btn_plus_blue"
+        android:layout_marginEnd="152dp"
+        android:backgroundTint="@color/bluePrimary"
         android:fontFamily="@font/mmedium"
-        android:text="+"
         android:textAlignment="center"
+        android:text="@string/iconplus"
+        android:hint="+"
+        android:labelFor="@id/uploadFoto"
+        android:importantForAccessibility="yes"
+        android:contentDescription="upload foto"
         android:textColor="#FFF"
         android:textSize="22sp"
+        android:visibility="visible"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="@id/linearLayout"
-         />
+        tools:visibility="visible" />
 
     <Button
         android:id="@+id/btn_continue"
@@ -173,7 +179,7 @@
         android:layout_height="55dp"
         android:layout_marginTop="24dp"
         android:layout_marginEnd="24dp"
-        android:background="@drawable/bg_btn_blue_primary"
+        android:backgroundTint="@color/bluePrimary"
         android:fontFamily="@font/mmedium"
         android:text="@string/Continue_label"
         android:textAlignment="center"

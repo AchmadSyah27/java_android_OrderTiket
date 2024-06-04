@@ -104,7 +104,7 @@
             android:layout_marginLeft="24dp"
             android:layout_marginTop="10dp"
             android:layout_marginRight="24dp"
-            android:background="@drawable/bg_btn_blue_primary"
+            android:backgroundTint="@color/bluePrimary"
             android:fontFamily="@font/mmedium"
             android:text="@string/signin"
             android:gravity="center"
