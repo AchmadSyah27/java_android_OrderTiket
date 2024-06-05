@@ -159,7 +159,7 @@
         android:layout_height="55dp"
         android:layout_marginTop="24dp"
         android:layout_marginEnd="24dp"
-        android:background="@drawable/bg_btn_blue_primary"
+        android:backgroundTint="@color/bluePrimary"
         android:fontFamily="@font/mmedium"
         android:text="@string/Continue_label"
         android:textAlignment="center"

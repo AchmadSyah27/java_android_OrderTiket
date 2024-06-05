@@ -9,4 +9,6 @@
     <string name="name_label">Name</string>
     <string name="bio_label">Your Passion</string>
     <string name="explore">Explore Now</string>
+    <string name="plus">+</string>
+    <string name="iconplus">+</string>
 </resources>
