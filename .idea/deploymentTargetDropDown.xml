@@ -2,25 +2,6 @@
 <project version="4">
   <component name="deploymentTargetDropDown">
     <value>
-      <entry key="SplashAct">
-        <State />
-      </entry>
-      <entry key="SplashAct (1)">
-        <State>
-          <targetSelectedWithDropDown>
-            <Target>
-              <type value="QUICK_BOOT_TARGET" />
-              <deviceKey>
-                <Key>
-                  <type value="VIRTUAL_DEVICE_PATH" />
-                  <value value="C:\Users\ACHMAD\.android\avd\Nexus_5X_API_24.avd" />
-                </Key>
-              </deviceKey>
-            </Target>
-          </targetSelectedWithDropDown>
-          <timeTargetWasSelectedWithDropDown value="2024-04-06T18:39:00.483287400Z" />
-        </State>
-      </entry>
       <entry key="app">
         <State />
       </entry>
